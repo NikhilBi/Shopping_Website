@@ -1,2 +1,5 @@
-# Shopping_Website
-This is the shopping website created in html, css &amp; js.
+# Shopping website - cart item using javascipt
+
+- ADD ITEMS TO CART - JAVASCRIPT PROJECT
+
+- Function that add item to the cart is coded in js/app.js
